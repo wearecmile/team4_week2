@@ -1,4 +1,6 @@
-## Command Design Pattern
+## Design Pattern
+
+This app created using 'COMMAND' design pattern
 
 ## Available Scripts
 
